@@ -2,7 +2,7 @@
 
 A browser-based desktop companion widget that turns six hand-drawn character images into a dynamic, interactive 2D companion.
 
-<img width="933" height="1184" alt="KakaoTalk_20260429_233752319" src="https://github.com/user-attachments/assets/2dc34605-7b2d-4f67-8ec0-c9239056411b" />
+<img width="466.5" height="592" alt="KakaoTalk_20260429_233752319" src="https://github.com/user-attachments/assets/2dc34605-7b2d-4f67-8ec0-c9239056411b" />
 
 ## About
 
