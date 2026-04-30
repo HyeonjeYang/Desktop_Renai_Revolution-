@@ -1,6 +1,6 @@
 # デスクトップ恋愛革命 - 2D
 
-A browser-based desktop companion widget that turns six hand-drawn character images into a dynamic, interactive 2D companion.
+A browser-based desktop GF widget that turns six hand-drawn character images into a dynamic, interactive 2D GF!!!
 
 <img width="466.5" height="592" alt="KakaoTalk_20260429_233752319" src="https://github.com/user-attachments/assets/2dc34605-7b2d-4f67-8ec0-c9239056411b" />
 
@@ -13,11 +13,11 @@ The widget composites six source images (three expressions — default, interest
 
 - Six expression states rendered from the original artwork.
 - Affection meter (0–100) that rises with liked actions and falls with disliked ones.
-- Mouse interaction zones across the character (hair, face, glasses, ear, neck, hand, book, chest), each with its own dialogue.
+- Mouse interaction zones across the character, each with its own dialogue.
 - Keyword-based text conversation through a small input field.
 - Three selectable personalities: tsundere, caring elder, playful junior.
 - Glasses toggle with separate dialogue for taking them off and putting them back on.
-- Korean particle handling for names with and without batchim (e.g., 현제는 / 서준이는).
+- Korean particle handling for names with and without 받침.
 
 ## Language
 
