@@ -27,6 +27,18 @@ Korean only.
 
 Open the HTML file in any modern browser. Enter your name and the character's name, choose a personality, and begin.
 
+## Download & Run
+
+Released: 2026-05-02
+
+1. Download `win-unpacked.zip` from the latest release
+2. Unzip the file
+3. Run `デスクトップ恋愛革命 2D.exe` inside the folder
+
+No internet connection required.
+
+**Supported OS:** Windows (x64)
+
 ## Credits
 
 - Original character artwork: **Hyeonje Yang**
